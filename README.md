@@ -1,6 +1,6 @@
 # BottomNavbarByUsingCSSAndJS
 Modern &amp; Stunning Bottom Navbar with CSS &amp; Vanilla JS
-BottomNavbarByUsingCSSAndJS" is a repository on GitHub that showcases a modern and stunning bottom navigation bar implementation using CSS and Vanilla JavaScript. The project presents an elegant and user-friendly navigation interface for web applications or websites, featuring smooth animations and intuitive interactions.
+is a repository on GitHub that showcases a modern and stunning bottom navigation bar implementation using CSS and Vanilla JavaScript. The project presents an elegant and user-friendly navigation interface for web applications or websites, featuring smooth animations and intuitive interactions.
 
 The repository demonstrates the use of SCSS (Sass) for structuring and organizing the CSS code, allowing for cleaner and more maintainable styles. By utilizing SCSS, the project offers a flexible and easily customizable design, making it suitable for various web development projects.
 
